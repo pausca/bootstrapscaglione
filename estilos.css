@@ -1,0 +1,11 @@
+.fondo{
+    border:solid 1px black;
+}
+.centro{
+    text-align: center;
+}
+
+.colores{
+    background:blue;
+    color:antiquewhite
+}
